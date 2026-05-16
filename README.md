@@ -1,4 +1,4 @@
-# fa-launcher
+# Fighters Anthology Launcher
 
 Compatibility launcher for Jane's Fighters Anthology (1998) on Windows 10/11.
 
