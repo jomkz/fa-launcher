@@ -157,3 +157,21 @@ make sure you copied from the `x86` folder, not `x64`.
 **Game runs but screen is black**
 Set `FullscreenWindowMode = true` in `dgVoodoo.conf` to have dgVoodoo2 render
 into a desktop window instead of exclusive fullscreen.
+
+## Acknowledgements
+
+- **dgVoodoo2** by Dávid Ságvári (Dégé) — DirectDraw / Direct3D translation layer.
+  http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/
+
+- **dsoal** by Chris Robinson — DirectSound → OpenAL Soft wrapper (LGPL-2.1).
+  https://github.com/kcat/dsoal
+
+- **OpenAL Soft** by Chris Robinson — software OpenAL implementation (LGPL-2.1).
+  https://openal-soft.org/
+
+fa-launcher does not distribute any of the above. Users must download them
+separately per the instructions in this README.
+
+## License
+
+[MIT](LICENSE) — Copyright (c) 2026 John McKenzie
